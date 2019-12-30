@@ -10,6 +10,8 @@ This lib include implementations for 4 packs:
 
 Each of them consists of standart functions.
 
-Compile as: 
+Compile as:
+
 make
+
 clang (file.c) -L. -lmx -Iinc (flags)
